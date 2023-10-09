@@ -1,11 +1,7 @@
-print("my name is Himabindambica") 
-print ("I am from Bhimavaram") 
-print("my grandfather name is simhachalam") 
-print("my grandmother name is venkta lakshmi")
-print ("my brother name is Rohith, he studying secondary school in vigyan public school of tadepalligudem") 
-print("I am studying Bsc in the streaming of maths,statistics,computer science")
-print("my hobbies are reading books and learning new languages")
-print("my favorite colour is white")
-print("my short term goal is to get a good grades in all semesters")
-print("my long term goal is to getting a job in high reputed company")
-print("that's about me sir...thank you sir")
+a=10
+b=40
+c=a
+a=b
+b=c
+print("a:",a)
+print("b:",b)
